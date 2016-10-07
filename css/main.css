@@ -1,0 +1,51 @@
+/*************
+
+*************/
+a {
+  text-decoration: none;
+}
+
+ #wrapper {
+   max-width: 948px;
+   margin: 0 auto;
+   padding: 0 5%;
+}
+
+#logo {
+  text-align: center;
+  margin: 0;
+}
+/* links */
+a {
+	color: #26c6da;
+}
+
+/* green header */
+header {
+	background: #558b2f;
+	border-color: #0b6e7f;
+}
+
+/* logo text */
+h1 {
+	color: #ffd338;
+}
+
+h2 {
+	color: #ff8f00;
+}
+/* nav background on mobile */
+nav	{
+	background: #33691e;
+}
+/* nav link */
+nav a, nav a:visited {
+	color: #e57373;
+}
+/* site body */
+body {
+	background-color: #006064;
+	color: #333;
+}
+
+
